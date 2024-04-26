@@ -1,0 +1,5 @@
+title,slug,category,status,content,excerpt,thumbnail,external_link,template
+book title,book-name,non-fiction,draft,"<div><h1>amazing book ep. 1!</h1><h2>you know it</h2><p>hello world</p></div>",book description,thumbnail1.jpg,https://localhost,books_template
+book title,book-name,non-fiction,draft,"<div><h1>amazing book ep. 2!</h1><h2>you know it</h2><p>hello world</p></div>",book description,thumbnail2.jpg,https://localhost/2,books_template
+book title,book-name,non-fiction,draft,"<div><h1>amazing book ep. 3!</h1><h2>you know it</h2><p>hello world</p></div>",book description,thumbnail3.jpg,https://localhost/3,books_template
+book title,book-name,non-fiction,draft,"<div><h1>amazing book ep. 4!</h1><h2>you know it</h2><p>hello world</p></div>",book description,thumbnail4.jpg,https://localhost/4,books_template
