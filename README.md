@@ -1,4 +1,4 @@
-# pocketbase_import_csv
+# pocketbase import csv
 A simple file to bulk import csv or json files
 
 in the cli from the directory pocketbase is running from try :
